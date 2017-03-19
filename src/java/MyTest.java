@@ -11,5 +11,9 @@ public class MyTest {
 		//modify in br1
 		
 		//add in another computer
+		
+		//added in my computer
+		
+		//after added in my computer, then add again in another computer
 	}
 }
