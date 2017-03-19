@@ -16,6 +16,8 @@ public class MyTest {
 		
 		//after added in my computer, then add again in another computer
 		
+		//then add again 2 in another computer firstly
+		
 		//after "then add again 2 in another computer firstly", then add in my computer
 		
 	}
