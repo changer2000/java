@@ -12,12 +12,9 @@ public class MyTest {
 		
 		//add in another computer
 		
-<<<<<<< HEAD
 		//added in my computer
 		
 		//after added in my computer, then add again in another computer
-=======
-		//added in my computer
->>>>>>> refs/remotes/origin/master
+
 	}
 }
