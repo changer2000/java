@@ -5,5 +5,7 @@ public class MyTest {
 		System.out.println("1");
 		
 		//create a new branch
+		
+		//modify in br1
 	}
 }
