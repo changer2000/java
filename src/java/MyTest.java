@@ -7,5 +7,7 @@ public class MyTest {
 		//create a new branch
 		
 		System.out.println("branch changed back to master");
+		
+		//modify in br1
 	}
 }
