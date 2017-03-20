@@ -7,5 +7,7 @@ public class MyTest {
 		//create a new branch
 		
 		//modify in br1
+		
+		//modify again in br1 in another computer
 	}
 }
