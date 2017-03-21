@@ -44,6 +44,6 @@ public class MyTest {
 		
 		//modify again 3/3
 		
-		//modify again 3/4 in br1
+		//modify again 3/4 in master
 	}
 }
