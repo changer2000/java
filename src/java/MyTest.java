@@ -14,11 +14,13 @@ public class MyTest {
 
 		//the 3th day's modify in br1
 		
-		//the 3th day modify in another computer
+		//the 3th day modify in another computer in br1
 		
-		//modify again 3/2 
+		//modify again 3/2 in br1 
 		
-		//modify again 3/2 in another computer
+		//modify again 3/2 in another computer in br1
+		
+		//modify again 3/3 in another computer in br1
 		
 	}
 }
