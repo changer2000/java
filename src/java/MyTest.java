@@ -27,5 +27,21 @@ public class MyTest {
 		//added in another computer again 3
 		
 		//added in my computer again 2
+		
+		
+		//modify again in br1 in another computer
+		
+		//modify again in br1
+
+		//the 3th day's modify in br1
+		
+		//the 3th day modify in another computer
+		
+		
+		//modify again 3/2 
+		
+		//modify again 3/2 in another computer
+		
+		//modify again 3/3
 	}
 }
