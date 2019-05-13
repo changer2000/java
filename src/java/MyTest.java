@@ -37,7 +37,6 @@ public class MyTest {
 		
 		//the 3th day modify in another computer in br1
 		
-		
 		//modify again 3/2 
 		
 		//modify again 3/2 in another computer in br1
@@ -50,5 +49,10 @@ public class MyTest {
 		
 
 		// import from another location
+		//modify again 4/1 in br1
+		
+		//modify again 4/1 in another computer in br1
+		
+		//test for checkout branch 'br1' separately 
 	}
 }
