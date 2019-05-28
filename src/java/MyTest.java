@@ -31,5 +31,7 @@ public class MyTest {
 		//modify again 4/1 in another computer in br1
 		
 		//test for checkout branch 'br1' separately 
+		
+		//modify 5/28 in br1
 	}
 }
