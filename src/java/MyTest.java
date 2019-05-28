@@ -32,8 +32,8 @@ public class MyTest {
 		
 		//test for checkout branch 'br1' separately 
 
-		//modify 5/28 in br1
-		
 		//modify in br1 by tester001
+		
+		//modify 5/28 in br1
 	}
 }
