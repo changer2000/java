@@ -47,5 +47,7 @@ public class MyTest {
 		//modify 5/29 2 in br1
 		
 		//begin rebase test 1st in br1 by tester001
+		
+		//modify 5/29 3 for REBASE in br1
 	}
 }
