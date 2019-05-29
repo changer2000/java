@@ -51,5 +51,13 @@ public class MyTest {
 		//modify 5/29 3 for REBASE in br1
 		
 		//rebase test 2 in br1 by tester001
+		
+		//test merge commit 1
+		
+		//test merge commit 2
+
+		//test merge commit 3
+
+		//test merge commit 4
 	}
 }
