@@ -41,6 +41,8 @@ public class MyTest {
 		
 		//modify again 3/2 in another computer in br1
 		
+		//modify again 3/3
+		
 		//modify again 3/3 in another computer in br1
 		
 		//modify again 3/4 in another computer in br1
@@ -54,5 +56,21 @@ public class MyTest {
 		//modify again 4/1 in another computer in br1
 		
 		//test for checkout branch 'br1' separately 
+
+		//modify in br1 by tester001
+		
+		//modify 5/28 in br1
+		
+		//modify 5/28 2th in br1
+		
+		//modify in br1 2th by tester001
+		
+		//modify 5/29 1st in br1
+		
+		//modify in br1 3th by tester001
+		
+		//modify 5/29 2 in br1
+		
+		//begin rebase test 1st in br1 by tester001
 	}
 }
