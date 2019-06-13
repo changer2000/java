@@ -78,7 +78,7 @@ public class MyTest {
 		//rebase test 2 in br1 by tester001
 		
 		//modify 5/29 4 for REBASE in br1
-
+		
 		//test merge commit 1
 		
 		//test merge commit 2
@@ -90,7 +90,6 @@ public class MyTest {
 		//modify 6/13 in master
 		
 		//modify 6/13 in br1, and want to merge with master's modifcation "modify 6/13 in master"
-		
-		//modify 6/13 in br1 by tester001
+
 	}
 }
