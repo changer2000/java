@@ -61,5 +61,7 @@ public class MyTest {
 		//test merge commit 3
 
 		//test merge commit 4
+		
+		//modify 6/13 in br1, and want to merge with master's modifcation "modify 6/13 in master"
 	}
 }
