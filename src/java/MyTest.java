@@ -90,5 +90,7 @@ public class MyTest {
 		//modify 6/13 in master
 		
 		//modify 6/13 in br1, and want to merge with master's modifcation "modify 6/13 in master"
+		
+		//modify 6/13 in br1, 2th
 	}
 }
