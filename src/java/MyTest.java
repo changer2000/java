@@ -114,5 +114,16 @@ public class MyTest {
 		//modify 6/14 in br1 by tester001 5th
 		
 		//test for stashes
+		
+		//test for rebase interactive 1
+		
+		//test for rebase interactive 2
+
+		//test for rebase interactive 3
+		//test for rebase interactive 4
+		
+		//test for rebase interactive 5
+
+		//test for rebase interactive 6
 	}
 }
