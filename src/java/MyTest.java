@@ -123,5 +123,7 @@ public class MyTest {
 		//test for rebase interactive 4
 		
 		//test for rebase interactive 5
+
+		//test for rebase interactive 6
 	}
 }
